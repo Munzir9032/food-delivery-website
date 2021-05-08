@@ -1,0 +1,13 @@
+#home{
+    padding: 0px 33px;
+}
+#contact ::-webkit-input-placeholder{
+   font-size: 1rem;
+}
+#contact-box label{
+    font-size: 1rem;    
+}
+#services .box img{
+    height: 120px;
+
+}
